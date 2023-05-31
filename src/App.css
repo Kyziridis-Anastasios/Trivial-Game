@@ -1,0 +1,19 @@
+#body {
+  height: 100vh;
+}
+
+#root {
+  width: 1280px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #C5C6C7;
+}
+
+.selection-card {
+  margin-bottom: 3em;
+}
+
+.card-body{
+  margin-bottom: 2em;
+}
